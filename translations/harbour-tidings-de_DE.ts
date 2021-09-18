@@ -210,12 +210,12 @@
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="45"/>
         <source>Enable &apos;All read &amp; Refresh all&apos;</source>
-        <translation type="unfinished">Aktiviere &apos;Alles gelesen &amp; Alle Aktualiziern&apos;</translation>
+        <translation>Aktiviere &apos;Alles gelesen &amp; Alle Aktualisieren &apos;</translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="46"/>
         <source>Whether to show or hide the top menu item for &apos;All read &amp; Refresh all&apos;</source>
-        <translation type="unfinished">Ob &apos;Alles gelesen &amp; Alle aktualisieren&apos; angezeigt wird</translation>
+        <translation>Menüelement anzeigen oder ausblenden &apos;Alles gelesen &amp; Alle aktualisieren&apos;</translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="63"/>
@@ -392,7 +392,7 @@
     <message>
         <location filename="../qml/pages/SourcesPage.qml" line="254"/>
         <source>All read &amp; Refresh all</source>
-        <translation type="unfinished">Alles gelesen & Alle aktualisieren</translation>
+        <translation>Alles gelesen & Alle aktualisieren</translation>
     </message>
     <message>
         <location filename="../qml/pages/SourcesPage.qml" line="270"/>
